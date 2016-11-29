@@ -4,7 +4,7 @@ public class StreetBean {
 	long id;
 	String name;
 	String value;
-	String locationName;
+	String locationName;//ÇøÃû
 	public long getId() {
 		return id;
 	}
